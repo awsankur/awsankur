@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# Distributed Training – LLMs and GenAI
-• [Github Repo] Awsome Distributed Training Architectures
+## Distributed Training – LLMs and GenAI
+• [Awsome Distributed Training Architectures](https://github.com/aws-samples/awsome-distributed-training/tree/main)
 • [Talk @ AWS Startups 2024] SageMaker HyperPod: Supercharge Your Healthcare and
 Life Sciences Workflows
 • [AWS ML Blog] https://aws.amazon.com/blogs/machine-learning/accelerate-your-
