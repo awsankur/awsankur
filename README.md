@@ -2,6 +2,7 @@
 
 ## Distributed Training and Inference– LLMs and GenAI
 * **Github Repo**: [Awsome Distributed Training Architectures](https://github.com/aws-samples/awsome-distributed-training/tree/main)
+* **Talk @ ReInvent 2024** [Explore the many ways to train foundation models on AWS](https://www.youtube.com/watch?v=0dObPoCZSWU&t=836s)
 * **Talk @ AWS Startups 2024** [SageMaker HyperPod: Supercharge Your Healthcare and Life Sciences Workflows](https://aws.amazon.com/startups/events/sagemaker-hyperpod-supercharge-your-healthcare-and-life-sciences-workflows?register=ONLINE)
 * **AWS ML Blog** [Accelerate your generative AI distributed training workloads with the NVIDIA NeMo Framework on Amazon EKS](https://aws.amazon.com/blogs/machine-learning/accelerate-your-generative-ai-distributed-training-workloads-with-the-nvidia-nemo-framework-on-amazon-eks/)
 * **AWS On Air** [AWS EFA & NVIDIA Nsight Systems: Distributed Training Performance Analysis](https://www.twitch.tv/videos/2139992361)
